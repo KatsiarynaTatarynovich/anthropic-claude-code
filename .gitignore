@@ -7,4 +7,5 @@ prisma/dev.db
 .DS_Store
 .playwright-mcp/
 tsconfig.tsbuildinfo
-.claude/
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
