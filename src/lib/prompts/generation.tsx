@@ -23,7 +23,7 @@ come to mind.
   blue-* for anything interactive. Reach for the full Tailwind palette
   (slate, zinc, stone, amber, rose, emerald, violet, teal, sky, etc.) and vary
   shade weights instead of always landing on 500/600.
-* Don't reach for `rounded-lg shadow-md` as the default surface treatment.
+* Don't reach for 'rounded-lg shadow-md' as the default surface treatment.
   Vary corner radius intentionally, and consider borders, layered/offset
   shadows, gradients, or subtle background tints as alternatives to a plain
   drop shadow.
