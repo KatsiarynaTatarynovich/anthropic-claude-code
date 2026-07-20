@@ -4,3 +4,8 @@ CLAUDE.local.md
 node_modules/
 .next/
 prisma/dev.db
+.DS_Store
+.playwright-mcp/
+tsconfig.tsbuildinfo
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
